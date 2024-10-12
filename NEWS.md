@@ -1,3 +1,8 @@
+# FactoMineR2 0.5.0
+
+* Add `PULL_REQUEST_TEMPLATE.md` for new contributors
+
+
 # FactoMineR2 0.4.0
 
 * Add all necessary functions to perform Correspondence Analysis (CA) (#9)
